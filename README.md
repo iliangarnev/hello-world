@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+  I am quite new to programming and I'm willing to learn more!
